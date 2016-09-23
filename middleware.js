@@ -1,5 +1,6 @@
 /**
  * Created by smupp00 on 9/23/16.
+ * New Middleware File
  */
 
 var middleware = {
